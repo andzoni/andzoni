@@ -9,7 +9,7 @@
   <img align="center" alt="Andzoni-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Andzoni-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Andzoni-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- <img align="right" alt="andzoni" src="https://media.giphy.com/media/s7C4RMw1rT91hJrngW/giphy.gif">
+ <img align="right" alt="andzoni" height="120" width="120" src="https://media.giphy.com/media/s7C4RMw1rT91hJrngW/giphy.gif">
 </div>
   
   ##
