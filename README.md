@@ -11,7 +11,9 @@
   <img align="center" alt="Andzoni-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  <img align="right" alt="andzoni" height="120" width="120" src="https://media.giphy.com/media/s7C4RMw1rT91hJrngW/giphy.gif">
 </div> 
+ 
   ##
+ 
 <div> 
   <a href="https://instagram.com/lorenzoniandre" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
