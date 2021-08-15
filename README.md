@@ -1,5 +1,5 @@
 ## Hello! I am Andre Lorenzoni. 
- <div>
+<div>
   <a href="https://github.com/andzoni">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andzoni&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andzoni&layout=compact&langs_count=7&theme=nightowl"/>
@@ -23,3 +23,5 @@
   ![Snake animation](https://github.com/andzoni/andzoni/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+ 
+ <img src="https://komarev.com/ghpvc/?username=andzoni&color=green" alt="andzoni" /> 
