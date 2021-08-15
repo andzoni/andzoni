@@ -1,4 +1,28 @@
 ## Hello! I am Andre Lorenzoni. 
+
+🔭 **Currently work:** Looking for my first job as a Junior Front-End Developer;
+
+:man_student: **Studying:** FullStack Web Developer at [Trybe](https://portal.cin.ufpe.br/);
+
+<img align="right" alt="andzoni" height="300" width="300" style="border-radius:50%" src="https://media.giphy.com/media/s7C4RMw1rT91hJrngW/giphy.gif">
+
+🌱 **Learning:**
+- [x] Git
+- [x] HTML
+- [x] CSS
+- [x] Javascript
+- [x] React
+- [ ] Express.js
+- [ ] NoSQL
+- [ ] Node.js
+- [ ] Python
+- [ ] SQL
+- [ ] Algorithms and Data Structure
+  
+:school_satchel: **Main Tools:** Visual Studio Code and GitHub;
+
+---
+
 <div>
   <a href="https://github.com/andzoni">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andzoni&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
@@ -9,10 +33,9 @@
   <img align="center" alt="Andzoni-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Andzoni-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Andzoni-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- <img align="right" alt="andzoni" height="120" width="120" src="https://media.giphy.com/media/s7C4RMw1rT91hJrngW/giphy.gif">
 </div> 
  
-  ##
+---
  
 <div> 
   <a href="https://instagram.com/lorenzoniandre" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
