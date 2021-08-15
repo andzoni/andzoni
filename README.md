@@ -9,7 +9,7 @@
   <img align="center" alt="Andzoni-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Andzoni-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Andzoni-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <div align="right" style="width:500px;max-width:100%;"><div style="height:0;padding-bottom:100%;position:relative;"><iframe width="500" height="500"               style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/5jomu5"></iframe></div><p><a href="https://imgflip.com/gif/5jomu5">via Imgflip</a></p></div>
+  <img align="right" alt="andzoni" height="30" width="40" src="https://imgflip.com/gif/5jomu5">
 </div>
   
   ##
