@@ -14,6 +14,7 @@
 - [x] CSS
 - [x] Javascript
 - [x] React
+- [x] Redux
 - [ ] Express.js
 - [ ] NoSQL
 - [ ] Node.js
