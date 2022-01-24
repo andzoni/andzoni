@@ -2,7 +2,7 @@
 
 📍 **Based in:** London - UK
 
-🔭 **Currently work:** Looking for my first job as a Junior Front-End Developer;
+🔭 **Currently work:** Looking for my first job as a Junior Fullstack Developer;
 
 :man_student: **Studying:** FullStack Web Developer at [Trybe](https://portal.cin.ufpe.br/);
 
