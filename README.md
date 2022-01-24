@@ -3,6 +3,7 @@
 📍 **Based in:** London - UK
 
 🔭 **Currently work:** Looking for my first job as a Junior Fullstack Developer;
+
 **My Portfolio:** https://andzoni-portfolio.vercel.app/
 
 :man_student: **Studying:** Fullstack Web Development at [Trybe](https://portal.cin.ufpe.br/);
