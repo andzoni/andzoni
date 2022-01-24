@@ -4,7 +4,7 @@
 
 🔭 **Currently work:** Looking for my first job as a Junior Fullstack Developer;
 
-:man_student: **Studying:** FullStack Web Developer at [Trybe](https://portal.cin.ufpe.br/);
+:man_student: **Studying:** Fullstack Web Development at [Trybe](https://portal.cin.ufpe.br/);
 
 <img align="right" alt="andzoni" height="300" width="300" style="border-radius:50%" src="https://media.giphy.com/media/s7C4RMw1rT91hJrngW/giphy.gif">
 
