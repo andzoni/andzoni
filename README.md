@@ -12,15 +12,16 @@
 - [x] Git
 - [x] HTML
 - [x] CSS
-- [x] Javascript
-- [x] React
-- [x] Redux
-- [ ] Express.js
-- [ ] NoSQL
+- [x] Javascript (ES6, HOFs, Fetch API, async/await)
+- [x] Unit Tests/Jest
+- [x] React(Life Cycle, CRUD, RTL, Redux, Context API, React Hooks)
+- [x] Agile Methodologies (Scrum, Kanban)
+- [x] Docker
+- [x] SQL
 - [ ] Node.js
+- [ ] TypeScript
+- [ ] MongoDB
 - [ ] Python
-- [ ] SQL
-- [ ] Algorithms and Data Structure
   
 :school_satchel: **Main Tools:** Visual Studio Code and GitHub;
 
