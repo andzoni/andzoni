@@ -2,11 +2,11 @@
 
 📍 **Based in:** London - UK
 
-🔭 **Currently work:** Looking for my first job as a Junior Fullstack Developer;
+🔭 **Currently work:** Junior System Engineer at mmi-analytics;
 
 **My Portfolio:** https://andzoni-portfolio.vercel.app/
 
-:man_student: **Studying:** Fullstack Web Development at [Trybe](https://portal.cin.ufpe.br/);
+:man_student: **Studied:** Fullstack Web Development at [Trybe](https://portal.cin.ufpe.br/);
 
 🌱 **Learning:**
 - [x] Git
@@ -18,8 +18,8 @@
 - [x] Unit Tests/Jest
 - [x] React(Life Cycle, CRUD, RTL, Redux, Context API, React Hooks)
 - [x] Agile Methodologies (Scrum, Kanban)
-- [x] Docker
-- [x] SQL
+- [~] Docker
+- [~] SQL
 - [ ] Node.js
 - [ ] TypeScript
 - [ ] MongoDB
