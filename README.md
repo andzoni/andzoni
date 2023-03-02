@@ -8,8 +8,6 @@
 
 :man_student: **Studying:** Fullstack Web Development at [Trybe](https://portal.cin.ufpe.br/);
 
-<img align="right" alt="andzoni" height="300" width="300" style="border-radius:50%" src="https://media.giphy.com/media/s7C4RMw1rT91hJrngW/giphy.gif">
-
 🌱 **Learning:**
 - [x] Git
 - [x] HTML
