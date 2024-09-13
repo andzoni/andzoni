@@ -2,13 +2,16 @@
 
 📍 **Based in:** London - UK
 
-🔭 **Currently work:** Junior System Engineer at mmi-analytics;
+🔭 **Currently working as:** Research Intern at ABI Research;
+🔭 **Previously work:** Junior System Engineer at mmi-Analytics;
 
 **My Portfolio:** https://andzoni-portfolio.vercel.app/
 
+:man_student: **Currently Studying:** 2nd Year Computer Science at City St George’s, University of London;
+:man_student: **Studied:** Software Engineering Foudation Year at Bolton University;
 :man_student: **Studied:** Fullstack Web Development at [Trybe](https://portal.cin.ufpe.br/);
 
-🌱 **Learning:**
+🌱 **Skills:**
 - [x] Git
 - [x] HTML
 - [x] CSS
@@ -18,12 +21,9 @@
 - [x] Unit Tests/Jest
 - [x] React(Life Cycle, CRUD, RTL, Redux, Context API, React Hooks)
 - [x] Agile Methodologies (Scrum, Kanban)
-- [~] Docker
-- [~] SQL
-- [ ] Node.js
-- [ ] TypeScript
-- [ ] MongoDB
-- [ ] Python
+- [x] Docker
+- [x] SQL
+- [x] Java
   
 :school_satchel: **Main Tools:** Visual Studio Code and GitHub;
 
