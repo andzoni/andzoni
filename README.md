@@ -3,12 +3,15 @@
 📍 **Based in:** London - UK
 
 🔭 **Currently working as:** Research Intern at ABI Research;
+
 🔭 **Previously work:** Junior System Engineer at mmi-Analytics;
 
 **My Portfolio:** https://andzoni-portfolio.vercel.app/
 
 :man_student: **Currently Studying:** 2nd Year Computer Science at City St George’s, University of London;
+
 :man_student: **Studied:** Software Engineering Foudation Year at Bolton University;
+
 :man_student: **Studied:** Fullstack Web Development at [Trybe](https://portal.cin.ufpe.br/);
 
 🌱 **Skills:**
